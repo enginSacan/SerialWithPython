@@ -6,10 +6,7 @@ This repo is created to show subjects below:
 * Getting arguments in terminal before executing python file.
 
 [Pyhton]: https://www.python.org/
-[PySerial]: https://github.com/robotframework/robotframework/blob/master/INSTALL.rst
-[Selenium]: https://github.com/robotframework/SeleniumLibrary/
-[SSHLibrary]: https://pypi.org/project/robotframework-sshlibrary/
-[TFTPY]: https://pypi.org/project/tftpy/
+[PySerial]: https://pypi.org/project/pyserial/
 
 ## How It Works
 
